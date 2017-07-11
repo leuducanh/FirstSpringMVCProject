@@ -27,6 +27,10 @@ public class P05_switch {
 				result = "thu nam";
 				break;
 			}
+			case 6:{
+				result = "thu sau";
+				break;
+			}
 			default:{
 				result = "khong hop le";
 				break;				
